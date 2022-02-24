@@ -24,7 +24,7 @@ O objetivo desse projeto será treinar um modelo com imagens de pulmões saudáv
 
 <a href="https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-018-0544-y">Computer-aided detection in chest radiography based on artificial intelligence: a survey</a>
 
-### Base de Imagens:
+**Base de Imagens**
 
 Os seguintes conjuntos de dados de imagem não identificados de radiografias de tórax (CXRs) estão disponíveis para a comunidade de pesquisa. Ambos os conjuntos contêm raios-X normais e anormais, com os últimos contendo manifestações de tuberculose.
 
@@ -35,3 +35,16 @@ Os seguintes conjuntos de dados de imagem não identificados de radiografias de 
 Fonte de Dados:
 
 https://lhncbc.nlm.nih.gov/publication/pub9931
+
+### Etapas do Projeto
+
+**Primeira Etapa:**
+
+- Extração de informação dos datasets
+- Ajustes, organização e união dos datasets
+- Divisão em treinamento, validação e teste
+- Criação de diretórios para armazenar as imagens
+- Pré-processamento e aplicação de dataset augmentation (Geração de Imagens Sintéticas)
+- Armazenamento das imagens 
+
+**Segunda Etapa:**
