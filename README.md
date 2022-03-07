@@ -48,3 +48,12 @@ https://lhncbc.nlm.nih.gov/publication/pub9931
 - Armazenamento das imagens 
 
 **Segunda Etapa:**
+
+- Criação do modelo
+- Definição dos hiperparâmetros
+- Criação da arquitetura
+- Compilação
+- Definição do checkpoint
+- Definição do Reduce on Plateau
+- Treinamento do modelo
+- Curvas do aprendizado
