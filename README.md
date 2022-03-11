@@ -57,3 +57,10 @@ https://lhncbc.nlm.nih.gov/publication/pub9931
 - Definição do Reduce on Plateau
 - Treinamento do modelo
 - Curvas do aprendizado
+
+**Terceira Etapa:**
+
+- Carregamento do modelo
+- Previsões nos dados de teste
+- Matriz de confusão
+- Relatório de classificação
