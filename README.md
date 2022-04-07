@@ -4,7 +4,7 @@
 
 A radiografia de tórax tem um valor clínico importante no diagnóstico de doenças. Sendo a ferramenta de exame mais comum na prática médica. Assim, a detecção automática de doenças com base na radiografia de tórax se tornou um dos tópicos mais procurados na pesquisa de imagens médicas. A radiografia de tórax (ou radiografia torácica) é uma técnica de diagnóstico e imagem médica econômica e fácil de usar. Com papel importante o diagnóstico de doenças pulmonares. Radiologistas bem treinados usam raios-X do tórax para detectar doenças, como pneumonia, tuberculose e câncer de pulmão precoce. Em inglês é conhecido como Chest radiography (chest X-ray or CXR).
 
-**Detecção de Tuberculose**
+**Classificação de Tuberculose**
 
 A tuberculose (TB) é a nona principal causa de morte no mundo e a principal causa de um único agente infeccioso, acima do HIV / AIDS. Globalmente, em 2016, a proporção de pessoas que desenvolveram tuberculose e morreram da doença (taxa de letalidade, CFR) foi de 16%, o que significa que cerca de 10,4 milhões de pessoas (90% adultos; 65% homens; 10% pessoas vivendo com HIV) adoeceu com TB.
 
@@ -14,7 +14,7 @@ Manifestações anormais de tuberculose frequentemente afetam a textura e a geom
 <img src="https://user-images.githubusercontent.com/54995990/155441473-7e921109-44fd-47d8-8a83-669fb1a3f75d.png" width="300px" />
 </div>
 
-O objetivo desse projeto será treinar um modelo com imagens de pulmões saudáveis e com tuberculose para que o modelo seja capaz de fazer a detectação em novas imagens.
+O objetivo desse projeto será treinar um modelo com imagens de pulmões saudáveis e com tuberculose para que o modelo seja capaz de fazer a classificação em novas imagens.
 
 **Referências:**
 
