@@ -26,7 +26,7 @@ O objetivo desse projeto será treinar um modelo com imagens de pulmões saudáv
 
 **Base de Imagens**
 
-Os seguintes conjuntos de dados de imagem não identificados de radiografias de tórax (CXRs) estão disponíveis para a comunidade de pesquisa. Ambos os conjuntos contêm raios-X normais e anormais, com os últimos contendo manifestações de tuberculose.
+Os seguintes conjuntos de dados de imagem de radiografias de tórax (CXRs) estão disponíveis para a comunidade de pesquisa. Ambos os conjuntos contêm raios-X normais e anormais, com os últimos contendo manifestações de tuberculose.
 
 **Conjunto de raios-X do Condado de Montgomery**: As imagens de raios-X deste conjunto de dados foram adquiridas no programa de controle da tuberculose do Departamento de Saúde e Serviços Humanos do Condado de Montgomery, MD, EUA. Este conjunto contém 138 radiografias póstero-anteriores, das quais 80 radiografias são normais e 58 radiografias são anormais com manifestações de tuberculose. Todas as imagens são anônimas e estão disponíveis no formato DICOM. O conjunto cobre uma ampla variedade de anormalidades, incluindo derrames e padrões miliares. O conjunto de dados inclui leituras de radiologia disponíveis como um arquivo de texto.
 
