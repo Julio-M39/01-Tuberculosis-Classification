@@ -1,5 +1,10 @@
 # Tuberculosis-Classification
 
+OBS: Caso o Github não renderize o arquivo .ipynb use os links abaixo:
+<a href="https://nbviewer.org/github/Julio-M39/01-Tuberculosis-Classification/blob/main/Primeira%20Etapa.ipynb">Primeira Etapa!</a> 
+<a href="https://nbviewer.org/github/Julio-M39/01-Tuberculosis-Classification/blob/main/Segunda%20Etapa.ipynb">Segunda Etapa!</a> 
+<a href="https://nbviewer.org/github/Julio-M39/01-Tuberculosis-Classification/blob/main/Terceira%20Etapa.ipynb">Terceira Etapa!</a> 
+
 ### Definição do Projeto
 
 A radiografia de tórax tem um valor clínico importante no diagnóstico de doenças. Sendo a ferramenta de exame mais comum na prática médica. Assim, a detecção automática de doenças com base na radiografia de tórax se tornou um dos tópicos mais procurados na pesquisa de imagens médicas. A radiografia de tórax (ou radiografia torácica) é uma técnica de diagnóstico e imagem médica econômica e fácil de usar. Com papel importante o diagnóstico de doenças pulmonares. Radiologistas bem treinados usam raios-X do tórax para detectar doenças, como pneumonia, tuberculose e câncer de pulmão precoce. Em inglês é conhecido como Chest radiography (chest X-ray or CXR).
