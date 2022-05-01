@@ -64,3 +64,9 @@ https://lhncbc.nlm.nih.gov/publication/pub9931
 - Previsões nos dados de teste
 - Matriz de confusão
 - Relatório de classificação
+
+### **Resultados**
+
+<div>
+<img src="" width="300px" />
+</div>
