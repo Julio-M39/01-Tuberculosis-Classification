@@ -67,6 +67,10 @@ https://lhncbc.nlm.nih.gov/publication/pub9931
 
 ### **Resultados**
 
+Para os resultados, plotamos uma matriz e um relatório de classificação que podem ser visto na imagem abaixo:
+
 <div>
-<img src="" width="300px" />
+<img src="https://user-images.githubusercontent.com/54995990/166153386-2f043e6d-1401-4647-a61f-a4b5277d21a0.png" width="980px" />
 </div>
+
+No geral, o modelo apresenta um bom equilíbrio, embora ainda tenhamos espaço para melhorias. O modelo pode ser melhorado com uma otimização dos parâmetros utilizados na rede, modificações na arquitetura da rede e aplicação de pré-processamento nas imagens.
