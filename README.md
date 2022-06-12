@@ -1,6 +1,6 @@
 # Tuberculosis-Classification
 
-Obs: Caso o Github não renderize o arquivo .ipynb use os links abaixo:
+OBS: Caso o Github não renderize o arquivo .ipynb use os links abaixo:
 
 - <a href="https://nbviewer.org/github/Julio-M39/01-Tuberculosis-Classification/blob/main/Primeira%20Etapa.ipynb">Primeira Etapa!</a> 
 - <a href="https://nbviewer.org/github/Julio-M39/01-Tuberculosis-Classification/blob/main/Segunda%20Etapa.ipynb">Segunda Etapa!</a> 
